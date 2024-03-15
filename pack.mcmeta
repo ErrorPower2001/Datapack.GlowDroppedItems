@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"description": "Glow the dropped items within players 16 block range",
+		"author": [
+			["ErrorPower", "ErrorPower2001@outlook.com"]
+		],
+		"pack_format": 26,
+		"supported_formats": {
+			"min_inclusive": 9,
+			"max_inclusive": 26
+		}
+	}
+}

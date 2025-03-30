@@ -7,7 +7,7 @@
 		"pack_format": 26,
 		"supported_formats": {
 			"min_inclusive": 9,
-			"max_inclusive": 26
+			"max_inclusive": 44
 		}
 	}
 }
